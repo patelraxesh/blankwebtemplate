@@ -1,0 +1,22 @@
+{
+  "name": "blankwebtemplate",
+  "version": "1.0.0",
+  "description": "blanktemplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelraxesh/blankwebtemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelraxesh/blankwebtemplate/issues"
+  },
+  "homepage": "https://github.com/patelraxesh/blankwebtemplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
